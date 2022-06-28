@@ -1,3 +1,6 @@
 .idea/
 .DS_Store
 *.wasm
+target/
+Cargo.lock
+pkg/
